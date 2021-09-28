@@ -1,0 +1,10 @@
+var fname="pratik";
+var lname="NM";
+var fullname=fname.concat(lname);
+console.log(fullname);
+var a=10;
+var b=20;
+console.log("add",a+b);
+console.log("sub",a-b);
+console.log("mul",a*b);
+console.log("div",a/b);
